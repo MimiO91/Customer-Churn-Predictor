@@ -1,0 +1,501 @@
+CustomerID,ChurnProbability,RecommendedAction
+1001,0.0,No Action
+1002,23.9,Call & Retain
+1003,0.3,No Action
+1004,0.1,No Action
+1005,9.8,Call & Retain
+1006,0.6,Send Promo
+1007,0.1,No Action
+1008,0.0,No Action
+1009,0.7,Call & Retain
+1010,0.0,No Action
+1011,0.0,No Action
+1012,0.0,No Action
+1013,6.3,Call & Retain
+1014,0.0,No Action
+1015,0.2,No Action
+1016,17.6,Call & Retain
+1017,0.0,No Action
+1018,0.0,No Action
+1019,0.0,No Action
+1020,0.0,No Action
+1021,93.3,Call & Retain
+1022,0.0,No Action
+1023,7.0,Call & Retain
+1024,0.0,No Action
+1025,0.0,No Action
+1026,4.5,Call & Retain
+1027,0.1,No Action
+1028,0.1,No Action
+1029,82.2,Call & Retain
+1030,0.1,No Action
+1031,0.0,No Action
+1032,0.6,Send Promo
+1033,94.2,Call & Retain
+1034,0.1,No Action
+1035,0.0,No Action
+1036,1.0,Call & Retain
+1037,0.0,No Action
+1038,0.0,No Action
+1039,0.0,No Action
+1040,0.0,No Action
+1041,1.7,Call & Retain
+1042,0.0,No Action
+1043,0.0,No Action
+1044,0.4,Send Promo
+1045,0.0,No Action
+1046,0.0,No Action
+1047,0.0,No Action
+1048,0.0,No Action
+1049,0.0,No Action
+1050,1.2,Call & Retain
+1051,0.0,No Action
+1052,1.0,Call & Retain
+1053,0.1,No Action
+1054,1.6,Call & Retain
+1055,0.1,No Action
+1056,0.0,No Action
+1057,0.0,No Action
+1058,0.2,No Action
+1059,0.1,No Action
+1060,0.3,No Action
+1061,1.6,Call & Retain
+1062,0.0,No Action
+1063,1.3,Call & Retain
+1064,0.0,No Action
+1065,0.2,No Action
+1066,0.0,No Action
+1067,9.4,Call & Retain
+1068,0.0,No Action
+1069,4.4,Call & Retain
+1070,0.1,No Action
+1071,0.0,No Action
+1072,0.0,No Action
+1073,0.0,No Action
+1074,0.0,No Action
+1075,4.9,Call & Retain
+1076,0.6,Send Promo
+1077,0.0,No Action
+1078,3.5,Call & Retain
+1079,9.0,Call & Retain
+1080,0.1,No Action
+1081,0.1,No Action
+1082,5.3,Call & Retain
+1083,57.4,Call & Retain
+1084,0.1,No Action
+1085,9.4,Call & Retain
+1086,1.9,Call & Retain
+1087,0.0,No Action
+1088,0.4,Send Promo
+1089,0.0,No Action
+1090,0.0,No Action
+1091,1.5,Call & Retain
+1092,1.9,Call & Retain
+1093,0.1,No Action
+1094,6.7,Call & Retain
+1095,0.0,No Action
+1096,0.3,No Action
+1097,1.5,Call & Retain
+1098,0.0,No Action
+1099,0.0,No Action
+1100,0.0,No Action
+1101,0.0,No Action
+1102,0.3,No Action
+1103,0.5,Send Promo
+1104,52.2,Call & Retain
+1105,0.1,No Action
+1106,0.0,No Action
+1107,0.0,No Action
+1108,0.0,No Action
+1109,0.0,No Action
+1110,15.8,Call & Retain
+1111,0.0,No Action
+1112,0.2,No Action
+1113,0.0,No Action
+1114,2.2,Call & Retain
+1115,5.3,Call & Retain
+1116,20.0,Call & Retain
+1117,0.0,No Action
+1118,0.2,No Action
+1119,33.1,Call & Retain
+1120,0.0,No Action
+1121,33.4,Call & Retain
+1122,3.1,Call & Retain
+1123,53.6,Call & Retain
+1124,73.8,Call & Retain
+1125,0.0,No Action
+1126,0.0,No Action
+1127,54.1,Call & Retain
+1128,0.0,No Action
+1129,0.1,No Action
+1130,8.4,Call & Retain
+1131,0.1,No Action
+1132,0.0,No Action
+1133,0.1,No Action
+1134,0.0,No Action
+1135,13.8,Call & Retain
+1136,0.0,No Action
+1137,0.0,No Action
+1138,20.4,Call & Retain
+1139,11.1,Call & Retain
+1140,7.5,Call & Retain
+1141,15.1,Call & Retain
+1142,4.1,Call & Retain
+1143,0.0,No Action
+1144,0.0,No Action
+1145,0.0,No Action
+1146,0.0,No Action
+1147,0.0,No Action
+1148,0.4,Send Promo
+1149,0.2,No Action
+1150,0.3,No Action
+1151,0.0,No Action
+1152,0.0,No Action
+1153,28.9,Call & Retain
+1154,0.5,Send Promo
+1155,0.1,No Action
+1156,14.3,Call & Retain
+1157,0.0,No Action
+1158,0.4,Send Promo
+1159,0.1,No Action
+1160,0.0,No Action
+1161,0.0,No Action
+1162,0.0,No Action
+1163,0.0,No Action
+1164,0.0,No Action
+1165,0.1,No Action
+1166,0.0,No Action
+1167,0.0,No Action
+1168,3.3,Call & Retain
+1169,0.0,No Action
+1170,0.3,No Action
+1171,0.0,No Action
+1172,0.0,No Action
+1173,0.0,No Action
+1174,0.7,Call & Retain
+1175,0.7,Call & Retain
+1176,3.0,Call & Retain
+1177,47.2,Call & Retain
+1178,1.3,Call & Retain
+1179,0.0,No Action
+1180,82.9,Call & Retain
+1181,2.3,Call & Retain
+1182,2.2,Call & Retain
+1183,0.1,No Action
+1184,0.8,Call & Retain
+1185,0.1,No Action
+1186,7.2,Call & Retain
+1187,0.0,No Action
+1188,49.0,Call & Retain
+1189,0.0,No Action
+1190,0.0,No Action
+1191,12.7,Call & Retain
+1192,75.4,Call & Retain
+1193,0.0,No Action
+1194,0.0,No Action
+1195,17.5,Call & Retain
+1196,0.0,No Action
+1197,0.0,No Action
+1198,10.2,Call & Retain
+1199,0.7,Call & Retain
+1200,0.2,No Action
+1201,0.9,Call & Retain
+1202,9.1,Call & Retain
+1203,0.0,No Action
+1204,3.0,Call & Retain
+1205,0.0,No Action
+1206,0.0,No Action
+1207,0.0,No Action
+1208,0.0,No Action
+1209,0.6,Send Promo
+1210,0.0,No Action
+1211,0.1,No Action
+1212,0.0,No Action
+1213,0.0,No Action
+1214,0.0,No Action
+1215,0.3,No Action
+1216,0.0,No Action
+1217,70.1,Call & Retain
+1218,0.0,No Action
+1219,0.0,No Action
+1220,0.0,No Action
+1221,0.2,No Action
+1222,0.2,No Action
+1223,0.0,No Action
+1224,0.0,No Action
+1225,26.4,Call & Retain
+1226,0.0,No Action
+1227,22.8,Call & Retain
+1228,2.3,Call & Retain
+1229,0.1,No Action
+1230,1.0,Call & Retain
+1231,0.6,Send Promo
+1232,0.4,Send Promo
+1233,16.5,Call & Retain
+1234,0.3,No Action
+1235,0.0,No Action
+1236,77.5,Call & Retain
+1237,0.0,No Action
+1238,0.0,No Action
+1239,0.1,No Action
+1240,16.1,Call & Retain
+1241,0.0,No Action
+1242,0.0,No Action
+1243,4.5,Call & Retain
+1244,0.6,Send Promo
+1245,0.9,Call & Retain
+1246,21.4,Call & Retain
+1247,1.3,Call & Retain
+1248,0.0,No Action
+1249,0.0,No Action
+1250,40.5,Call & Retain
+1251,0.0,No Action
+1252,0.8,Call & Retain
+1253,0.0,No Action
+1254,0.0,No Action
+1255,0.0,No Action
+1256,0.4,Send Promo
+1257,0.0,No Action
+1258,0.0,No Action
+1259,3.7,Call & Retain
+1260,0.0,No Action
+1261,0.6,Send Promo
+1262,0.2,No Action
+1263,95.2,Call & Retain
+1264,0.0,No Action
+1265,15.7,Call & Retain
+1266,77.1,Call & Retain
+1267,0.2,No Action
+1268,4.4,Call & Retain
+1269,0.0,No Action
+1270,3.6,Call & Retain
+1271,0.2,No Action
+1272,0.0,No Action
+1273,1.1,Call & Retain
+1274,0.0,No Action
+1275,0.0,No Action
+1276,2.1,Call & Retain
+1277,7.4,Call & Retain
+1278,0.0,No Action
+1279,1.2,Call & Retain
+1280,1.3,Call & Retain
+1281,2.2,Call & Retain
+1282,18.4,Call & Retain
+1283,0.0,No Action
+1284,0.0,No Action
+1285,0.0,No Action
+1286,61.9,Call & Retain
+1287,0.0,No Action
+1288,0.4,Send Promo
+1289,0.0,No Action
+1290,0.0,No Action
+1291,9.9,Call & Retain
+1292,0.1,No Action
+1293,0.0,No Action
+1294,34.8,Call & Retain
+1295,2.0,Call & Retain
+1296,0.0,No Action
+1297,3.9,Call & Retain
+1298,1.0,Call & Retain
+1299,0.5,Send Promo
+1300,0.0,No Action
+1301,0.1,No Action
+1302,0.0,No Action
+1303,0.1,No Action
+1304,1.0,Call & Retain
+1305,4.6,Call & Retain
+1306,0.0,No Action
+1307,0.9,Call & Retain
+1308,0.2,No Action
+1309,0.0,No Action
+1310,0.7,Call & Retain
+1311,0.3,No Action
+1312,0.7,Call & Retain
+1313,12.7,Call & Retain
+1314,0.0,No Action
+1315,0.2,No Action
+1316,3.3,Call & Retain
+1317,0.0,No Action
+1318,0.0,No Action
+1319,0.0,No Action
+1320,0.0,No Action
+1321,0.0,No Action
+1322,0.0,No Action
+1323,6.6,Call & Retain
+1324,0.3,No Action
+1325,0.5,Send Promo
+1326,74.5,Call & Retain
+1327,2.2,Call & Retain
+1328,2.8,Call & Retain
+1329,0.0,No Action
+1330,2.4,Call & Retain
+1331,0.0,No Action
+1332,0.0,No Action
+1333,0.0,No Action
+1334,0.1,No Action
+1335,32.4,Call & Retain
+1336,3.3,Call & Retain
+1337,0.0,No Action
+1338,54.5,Call & Retain
+1339,1.1,Call & Retain
+1340,0.6,Send Promo
+1341,76.8,Call & Retain
+1342,0.7,Call & Retain
+1343,0.5,Send Promo
+1344,0.5,Send Promo
+1345,0.0,No Action
+1346,1.9,Call & Retain
+1347,7.5,Call & Retain
+1348,0.2,No Action
+1349,11.3,Call & Retain
+1350,0.0,No Action
+1351,5.6,Call & Retain
+1352,43.1,Call & Retain
+1353,26.2,Call & Retain
+1354,0.0,No Action
+1355,9.1,Call & Retain
+1356,0.0,No Action
+1357,28.7,Call & Retain
+1358,17.5,Call & Retain
+1359,0.0,No Action
+1360,0.6,Send Promo
+1361,69.5,Call & Retain
+1362,0.0,No Action
+1363,0.0,No Action
+1364,0.0,No Action
+1365,0.0,No Action
+1366,0.3,No Action
+1367,0.0,No Action
+1368,0.3,No Action
+1369,2.3,Call & Retain
+1370,0.0,No Action
+1371,0.0,No Action
+1372,0.0,No Action
+1373,0.2,No Action
+1374,5.1,Call & Retain
+1375,0.1,No Action
+1376,0.0,No Action
+1377,0.0,No Action
+1378,0.0,No Action
+1379,0.4,Send Promo
+1380,0.0,No Action
+1381,75.7,Call & Retain
+1382,2.6,Call & Retain
+1383,0.0,No Action
+1384,0.1,No Action
+1385,0.0,No Action
+1386,7.4,Call & Retain
+1387,54.4,Call & Retain
+1388,0.0,No Action
+1389,3.3,Call & Retain
+1390,0.0,No Action
+1391,1.1,Call & Retain
+1392,0.0,No Action
+1393,17.8,Call & Retain
+1394,51.6,Call & Retain
+1395,1.8,Call & Retain
+1396,0.1,No Action
+1397,0.0,No Action
+1398,0.1,No Action
+1399,0.1,No Action
+1400,31.3,Call & Retain
+1401,0.0,No Action
+1402,11.5,Call & Retain
+1403,0.7,Call & Retain
+1404,0.0,No Action
+1405,0.9,Call & Retain
+1406,0.0,No Action
+1407,0.0,No Action
+1408,0.1,No Action
+1409,27.4,Call & Retain
+1410,0.0,No Action
+1411,0.0,No Action
+1412,0.3,No Action
+1413,0.0,No Action
+1414,43.8,Call & Retain
+1415,1.1,Call & Retain
+1416,0.0,No Action
+1417,0.0,No Action
+1418,0.1,No Action
+1419,0.0,No Action
+1420,7.6,Call & Retain
+1421,0.0,No Action
+1422,0.1,No Action
+1423,0.0,No Action
+1424,0.0,No Action
+1425,0.0,No Action
+1426,0.0,No Action
+1427,0.1,No Action
+1428,5.6,Call & Retain
+1429,0.0,No Action
+1430,5.9,Call & Retain
+1431,6.8,Call & Retain
+1432,0.5,Send Promo
+1433,0.2,No Action
+1434,0.1,No Action
+1435,0.0,No Action
+1436,0.0,No Action
+1437,0.0,No Action
+1438,25.1,Call & Retain
+1439,0.0,No Action
+1440,1.3,Call & Retain
+1441,0.9,Call & Retain
+1442,0.4,Send Promo
+1443,0.0,No Action
+1444,0.0,No Action
+1445,0.0,No Action
+1446,0.4,Send Promo
+1447,0.1,No Action
+1448,0.0,No Action
+1449,0.0,No Action
+1450,0.1,No Action
+1451,0.8,Call & Retain
+1452,4.1,Call & Retain
+1453,0.0,No Action
+1454,0.0,No Action
+1455,43.6,Call & Retain
+1456,0.1,No Action
+1457,0.0,No Action
+1458,10.0,Call & Retain
+1459,65.6,Call & Retain
+1460,0.0,No Action
+1461,29.4,Call & Retain
+1462,0.1,No Action
+1463,0.0,No Action
+1464,0.2,No Action
+1465,0.7,Call & Retain
+1466,54.7,Call & Retain
+1467,92.4,Call & Retain
+1468,0.0,No Action
+1469,0.0,No Action
+1470,2.0,Call & Retain
+1471,0.0,No Action
+1472,0.2,No Action
+1473,37.1,Call & Retain
+1474,3.0,Call & Retain
+1475,0.0,No Action
+1476,1.2,Call & Retain
+1477,11.1,Call & Retain
+1478,0.0,No Action
+1479,0.0,No Action
+1480,0.0,No Action
+1481,96.4,Call & Retain
+1482,0.0,No Action
+1483,59.9,Call & Retain
+1484,0.0,No Action
+1485,4.9,Call & Retain
+1486,0.7,Call & Retain
+1487,0.1,No Action
+1488,9.9,Call & Retain
+1489,23.6,Call & Retain
+1490,0.7,Call & Retain
+1491,13.5,Call & Retain
+1492,3.5,Call & Retain
+1493,0.0,No Action
+1494,0.0,No Action
+1495,0.0,No Action
+1496,0.0,No Action
+1497,0.0,No Action
+1498,0.1,No Action
+1499,2.0,Call & Retain
+1500,21.8,Call & Retain
